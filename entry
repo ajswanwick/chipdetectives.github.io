@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="style.css"/>
+        <title>The Chip Detectives</title>
+    </head>
+<body id="page1">
+ <div id ="Intro">
+  <a href="Blog.html"><img src="images/7843415.jpg" height="500px" width="500px"/></a>
+  
+</div>
+<h1>The Chip Detectives</h1>
+</body>
+
+
+
+
+
+
+
+
+
+</html>
